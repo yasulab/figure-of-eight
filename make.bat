@@ -1,0 +1,1 @@
+gcc68 -o .\figure-of-eight.hex .\main.c .\wabotcam.c .\mode.c .\sys.c
